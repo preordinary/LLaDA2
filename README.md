@@ -1,6 +1,6 @@
 # Evaluation for LLaDA 2.0
 
-This repository provides an unofficial evaluation implementation for **LLaDA 2.0-mini-preview**, based on the [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness).
+This repository provides an unofficial evaluation implementation for [LLaDA 2.0](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview), based on the [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness).
 
 > **⚠️ Disclaimer:**
 > Since the official evaluation reports for [LLaDA 2.0](https://huggingface.co/inclusionAI/LLaDA2.0-mini-preview) are not yet available, the results presented below are based on independent testing conducted on my own equipment. They may not fully represent the model's official performance capabilities.
